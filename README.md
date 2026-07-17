@@ -153,10 +153,10 @@ Launch the website
 
 ---
 
-## 🚀 Services
+## 🚀 Products
 
 <p align="center">
-<img src="services.png" width="100%">
+<img src="products.png" width="100%">
 </p>
 
 ---
@@ -169,10 +169,10 @@ Launch the website
 
 ---
 
-## 💻 Technologies
+## 💻 Departments
 
 <p align="center">
-<img src="technologies.png" width="100%">
+<img src="Departments.png" width="100%">
 </p>
 
 ---
@@ -193,13 +193,6 @@ Launch the website
 
 ---
 
-## 🦶 Footer
-
-<p align="center">
-<img src="footer.png" width="100%">
-</p>
-
----
 
 # 🔗 Quick Links
 
