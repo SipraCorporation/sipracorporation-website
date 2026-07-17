@@ -156,7 +156,7 @@ Launch the website
 ## 🚀 Products
 
 <p align="center">
-<img src="products.png" width="100%">
+<img src="product.png" width="100%">
 </p>
 
 ---
@@ -172,7 +172,7 @@ Launch the website
 ## 💻 Departments
 
 <p align="center">
-<img src="Departments.png" width="100%">
+<img src="departments.png" width="100%">
 </p>
 
 ---
